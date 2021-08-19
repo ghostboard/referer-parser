@@ -1,10 +1,8 @@
-# referer-parser node.js (JavaScript) library
+# referer-parser
 
-This is the node.js (JavaScript) implementation of [referer-parser][referer-parser], the library for extracting search marketing data from referer _(sic)_ URLs.
+This repo is a fork from [snowplow-referer-parser/nodejs-referer-parser](https://github.com/snowplow-referer-parser/nodejs-referer-parser) just to update the `referers.yml`
 
-The implementation uses the shared 'database' of known referers found in [`referers.yml`][referers-yml]
-
-The Javascript version of referer-parser is maintained by [Martin Katrenik][mkatrenik].
+Credits to the original authors
 
 ## Installation
 
